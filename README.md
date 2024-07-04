@@ -9,7 +9,7 @@ Follow these steps to set up and run the project locally.
 ### Step 1: Clone the Repository
 Clone the repository using the following command:
 ```
-git clone [repository-link]
+git clone [https://github.com/NehithRasool/Todolist_QuadB]
 ```
 
 ### Step 2: Install Dependencies
