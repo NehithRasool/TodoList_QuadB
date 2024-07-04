@@ -28,3 +28,5 @@ Open your browser and go to `http://localhost:3000` to view the application.
 ### Contact
 If you have any queries, please contact us at [Mail:nehithrasool@gmail].
 ```
+Phone number: 9182503457
+```
